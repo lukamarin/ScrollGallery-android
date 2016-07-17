@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollGalleryView</string>
+    <string name="loading">Loading…</string>
+</resources>
